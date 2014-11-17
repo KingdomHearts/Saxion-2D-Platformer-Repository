@@ -1,0 +1,9 @@
+0.0.1 - initial post
+0.0.2 - fixed Canvas to allow for faster writing
+0.0.3 - fixed collider bug (collider bugged when destroyed)
+		fixed destroy bug (child wasn't destroyed)
+		fixed negative width problem (scaled sprites return negative width)
+		added game.ShowMouse(false); to show/hide mouse
+0.0.4 - added sound channel parameter to Sound.Play.
+		fixed system from running too fast on systems without vsync
+		fixed game.Destroy() to close window.

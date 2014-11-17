@@ -1,0 +1,5 @@
+E:\Saxion 2D Platformer\sourcefiles\GXPEngine\bin\Debug\GXPEngine.exe
+E:\Saxion 2D Platformer\sourcefiles\GXPEngine\bin\Debug\GXPEngine.pdb
+E:\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.exe
+E:\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+E:\Saxion 2D Platformer\sourcefiles\GXPEngine\obj\x86\Debug\GXPEngine.csprojResolveAssemblyReference.cache
